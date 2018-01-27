@@ -9,3 +9,6 @@ mainproperties:
 
 				keycloak.security-constraints[0].authRoles[0]=dispatch_role_admin       //Role
 				keycloak.security-constraints[0].securityCollections[0].patterns[0]=/*    //Resources need be protected
+				
+				
+connect：cuijia_xu@sina.com
